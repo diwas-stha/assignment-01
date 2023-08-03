@@ -7,5 +7,7 @@
 
 ## References
 [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
 [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
 [Git Hooks](https://www.atlassian.com/git/tutorials/git-hooks)
